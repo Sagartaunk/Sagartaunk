@@ -1,30 +1,21 @@
-👋 Hey, I'm Sagar Taunk!
-
-Developer | Cybersecurity Enthusiast | Maker
-
-Hi! I'm Sagar Taunk, a 17-year-old programmer and tech enthusiast. I love coding, working on cybersecurity projects, and experimenting with 3D printing. I'm constantly exploring new technologies and building cool stuff along the way.
-
-
----
+👋 Hi, I'm Sagar Taunk!
 
 🚀 About Me
 
-💻 Currently learning Rust, focusing on cybersecurity projects
+👨‍💻 Passionate about coding, cybersecurity, and 3D printing.
 
-🛡️ Interested in cybersecurity and low-level programming
+🖥️ Currently learning Rust and C++.
 
-🔧 Building and modifying 3D printers — experimenting with new setups and components
-
-I Have 2 3d printers , Voron switchwire and Creality K1C
----
-
-🛠️ Tools
-Rust , C++
+🛠️ I own two 3D printers: Creality K1C and Voron Switchwire.
 
 
+🧠 Languages and Tools
 
+💻 Languages: C++, Rust
 
+🔧 3D Printing: Creality K1C, Voron Switchwire
 
+🔒 Cybersecurity: Exploring projects in Rust related to security
 
 
 <!---
