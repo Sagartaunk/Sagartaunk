@@ -42,7 +42,7 @@ fn main() {
             "Digital Forensics".to_string()
         ],
         motivation: "Breaking into cybersecurity one CTF at a time! 🔐".to_string(),
-        last_updated: "June 2025".to_string(),
+        last_updated: "2025-06-07 15:06:33 UTC".to_string(),
     };
     
     println!("Welcome to my learning journey! 🚀");
@@ -219,7 +219,7 @@ fn current_skill_level() -> &'static str {
 
 *3 months into the cybersecurity journey and loving every challenge! 🔐*
 
-**Last Updated**: June 7, 2025
+**Last Updated**: 2025-06-07 15:06:33 UTC
 
 </div>
 
