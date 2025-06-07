@@ -21,6 +21,7 @@ struct Student {
     interests: Vec<String>,
     currently_learning: Vec<String>,
     motivation: String,
+    last_updated: String,
 }
 
 fn main() {
@@ -41,6 +42,7 @@ fn main() {
             "Digital Forensics".to_string()
         ],
         motivation: "Breaking into cybersecurity one CTF at a time! 🔐".to_string(),
+        last_updated: "June 2025".to_string(),
     };
     
     println!("Welcome to my learning journey! 🚀");
@@ -87,14 +89,14 @@ fn main() {
 
 ---
 
-## 🎯 What I'm Currently Learning
+## 🎯 What I'm Currently Learning (June 2025)
 
-- 🔐 **TryHackMe Rooms** - Working through beginner cybersecurity challenges
-- 🌐 **Web Application Security** - Learning about OWASP Top 10
-- 🖥️ **Linux System Administration** - Getting comfortable with command line
+- 🔐 **TryHackMe Rooms** - Working through beginner to intermediate cybersecurity challenges
+- 🌐 **Web Application Security** - Learning about OWASP Top 10 and common vulnerabilities
+- 🖥️ **Linux System Administration** - Getting more comfortable with Arch and command line tools
 - 🦀 **Rust Programming** - Building small security tools and learning systems programming
-- 🔍 **Network Fundamentals** - Understanding how networks work and how to analyze them
-- 📚 **School Projects** - Unfortunately includes Python stuff I have to do
+- 🔍 **Network Fundamentals** - Understanding protocols, packet analysis, and network security
+- 📚 **School Projects** - Unfortunately still includes Python stuff I have to do
 
 ---
 
@@ -121,8 +123,8 @@ fn main() {
 ## 📊 What I Actually Code
 
 ```text
-Rust         60% ████████████████████████▓░░░░░░░   
-C            25% ██████████▓░░░░░░░░░░░░░░░░░░░░░░   
+Rust         65% ██████████████████████████▓░░░░░   
+C            20% ████████▓░░░░░░░░░░░░░░░░░░░░░░░░   
 Python       10% ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   (School projects only!)
 Shell         5% ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   
 ```
@@ -131,86 +133,93 @@ Shell         5% ██▓░░░░░░░░░░░░░░░░░░
 
 ## 🎓 Learning Journey
 
-### Current Focus Areas:
-- **Penetration Testing Basics** - Learning methodology and tools
-- **Network Security** - Understanding protocols and vulnerabilities  
-- **Linux Skills** - Getting better with command line and system administration
-- **Rust Development** - Building security tools and understanding memory safety
-- **CTF Challenges** - Practicing problem-solving skills
+### Current Focus Areas (Mid-2025):
+- **Penetration Testing** - Working through methodologies and practical applications
+- **Network Security** - Deep diving into protocol analysis and network vulnerabilities  
+- **Linux Skills** - Mastering Arch Linux administration and security tools
+- **Rust Development** - Building CLI security tools and understanding memory safety
+- **CTF Challenges** - Participating in beginner-friendly competitions
 
-### Recent Accomplishments:
-- ✅ Completed beginner TryHackMe rooms
-- ✅ Learned basic Nmap scanning techniques
-- ✅ Built my first Rust CLI tool
-- ✅ Successfully avoided using Python (except when forced to!)
-
----
-
-## 🔧 My Setup
-
-- **OS**: Arch Linux (btw I use Arch)
-- **Main Language**: Rust 🦀
-- **Editor**: VS Code with Rust extensions
-- **Learning Platform**: TryHackMe, YouTube tutorials
-- **VM**: Kali Linux for security testing
+### Milestones Reached:
+- ✅ Progressed through multiple TryHackMe learning paths
+- ✅ Built several Rust CLI tools for security tasks
+- ✅ Comfortable with basic penetration testing methodology
+- ✅ Can navigate and troubleshoot Arch Linux confidently
+- ✅ Still successfully avoiding Python (except when teachers demand it!)
 
 ---
 
-## 🎯 Goals for 2025
+## 🔧 My Current Setup (June 2025)
 
-- [ ] Complete more TryHackMe learning paths
-- [ ] Build security tools in Rust
-- [ ] Learn more about web application pentesting
-- [ ] Get better at Linux system administration
-- [ ] Maybe participate in some beginner CTF competitions
-- [ ] Survive high school while learning cybersecurity
+- **OS**: Arch Linux (btw I use Arch) - Breaks Too Frequenty .....
+- **Main Language**: Rust 🦀 - Getting more proficient every day
+- **Editor**: VS Code with extensive Rust tooling
+- **Learning Platforms**: TryHackMe, HackTheBox (starter level), YouTube
+- **VM**: Kali Linux for security testing and CTF practice
+- **Hardware**: Whatever laptop can handle VMs and doesn't crash
 
 ---
 
-## 💭 Honest Reality Check
+## 🎯 Goals for Rest of 2025
+
+- [ ] Complete advanced TryHackMe learning paths
+- [ ] Contribute to open-source security tools in Rust
+- [ ] Participate in my first real CTF competition
+- [ ] Learn more about malware analysis and reverse engineering
+- [ ] Get comfortable with more advanced penetration testing techniques
+- [ ] Survive final year of high school while maintaining learning momentum
+
+---
+
+## 💭 Mid-2025 Reality Check
 
 ```rust
-// This is me being real about where I am
+// Being honest about progress after months of learning
 fn current_skill_level() -> &'static str {
-    match experience_level {
-        0..=1 => "Absolute beginner but eager to learn!",
-        1..=2 => "Know some basics, still figuring things out",
-        2..=3 => "Getting comfortable with tools and concepts",
-        _ => "Way too optimistic about my abilities"
+    match months_of_learning {
+        0..=3 => "Complete noob but enthusiastic!",
+        3..=6 => "Starting to understand the basics",
+        6..=12 => "Can follow tutorials and solve easy challenges", // <- I'm here
+        12..=24 => "Actually getting decent at this stuff",
+        _ => "Probably overestimating my abilities as usual"
     }
 }
 
-// I'm probably somewhere around level 1.5 😅
+// After several months: definitely more confident but still lots to learn!
 ```
 
 ---
 
-## 💡 Currently Reading/Watching
+## 💡 Currently Reading/Watching (June 2025)
 
-- 📖 "The Web Application Hacker's Handbook" (slowly but surely)
-- 🎥 NetworkChuck YouTube videos
-- 📚 TryHackMe learning paths
-- 🔍 Random cybersecurity blogs and articles
+- 📖 "The Web Application Hacker's Handbook" - Making actual progress now!
+- 🎥 IppSec walkthroughs for retired HackTheBox machines
+- 📚 Advanced TryHackMe rooms and learning paths
+- 🔍 Security blogs, CVE analyses, and research papers
+- 🦀 The Rust Book (again) - for better tool development
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Facts (Updated June 2025)
 
-- 🎂 17 years old and trying to break into cybersecurity
-- 🦀 Rust enthusiast (it's just so much better than C!)
-- 🐧 Arch Linux user (btw I use Arch)
-- 🔐 TryHackMe addict
-- 🐍 Only touches Python when teachers force me to
-- ☕ Powered by curiosity and way too much caffeine
-- 🎮 Thinks hacking is like puzzle-solving but cooler
+- 🎂 Still 17 but feeling way more confident about cybersecurity
+- 🦀 Rust skills have improved significantly - can build useful tools now!
+- 🐧 Arch Linux power user (it breaks every week!)
+- 🔐 TryHackMe streak going strong - addicted to learning
+- 🐍 Python tolerance slightly increased (still prefer Rust though)
+- ☕ Coffee consumption directly correlates with CTF difficulty
+- 🎮 CTFs are basically the best puzzle games ever invented
+- 📈 Actually starting to feel like I know what I'm doing (sometimes)
 
 ---
 
 <div align="center">
 
-### 🚀 "The best time to start was yesterday. The second best time is now." 
+### 🚀 "Progress, not perfection" 
 
-*Just a student trying to learn cybersecurity one step at a time! 🔐*
+*3 months into the cybersecurity journey and loving every challenge! 🔐*
+
+**Last Updated**: June 7, 2025
 
 </div>
 
