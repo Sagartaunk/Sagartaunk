@@ -42,7 +42,7 @@ fn main() {
             "Digital Forensics".to_string()
         ],
         motivation: "Breaking into cybersecurity one CTF at a time! 🔐".to_string(),
-        last_updated: "2025-06-07 15:06:33 UTC".to_string(),
+        last_updated: "2025-06-07 15:08:01".to_string(),
     };
     
     println!("Welcome to my learning journey! 🚀");
@@ -120,14 +120,15 @@ fn main() {
 
 ---
 
-## 📊 What I Actually Code
+## 📊 What I Actually Code (Not counting Makefiles lol)
 
 ```text
-Rust         65% ██████████████████████████▓░░░░░   
-C            20% ████████▓░░░░░░░░░░░░░░░░░░░░░░░░   
-Python       10% ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   (School projects only!)
+Rust         70% ████████████████████████████▓░░░   
+Python       15% ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░   (School projects mainly)
+C            10% ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   
 Shell         5% ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   
 ```
+*GitHub's language stats include Makefiles for some reason... 🤷‍♂️*
 
 ---
 
@@ -219,7 +220,7 @@ fn current_skill_level() -> &'static str {
 
 *3 months into the cybersecurity journey and loving every challenge! 🔐*
 
-**Last Updated**: 2025-06-07 15:06:33 UTC
+**Last Updated**: 2025-06-07 15:08:01 UTC
 
 </div>
 
