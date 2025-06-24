@@ -120,17 +120,6 @@ fn main() {
 
 ---
 
-## 📊 What I Actually Code (Not counting Makefiles lol)
-
-```text
-Rust         70% ████████████████████████████▓░░░   
-Python       15% ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░   (School projects mainly)
-C            10% ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   
-Shell         5% ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   
-```
-*GitHub's language stats include Makefiles for some reason... 🤷‍♂️*
-
----
 
 ## 🎓 Learning Journey
 
@@ -172,25 +161,6 @@ Shell         5% ██▓░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 💭 Mid-2025 Reality Check
-
-```rust
-// Being honest about progress after months of learning
-fn current_skill_level() -> &'static str {
-    match months_of_learning {
-        0..=3 => "Complete noob but enthusiastic!",
-        3..=6 => "Starting to understand the basics",
-        6..=12 => "Can follow tutorials and solve easy challenges", // <- I'm here
-        12..=24 => "Actually getting decent at this stuff",
-        _ => "Probably overestimating my abilities as usual"
-    }
-}
-
-// After several months: definitely more confident but still lots to learn!
-```
-
----
-
 ## 💡 Currently Reading/Watching (June 2025)
 
 - 📖 "The Web Application Hacker's Handbook" - Making actual progress now!
@@ -205,7 +175,7 @@ fn current_skill_level() -> &'static str {
 
 - 🎂 Still 17 but feeling way more confident about cybersecurity
 - 🦀 Rust skills have improved significantly - can build useful tools now!
-- 🐧 Arch Linux power user (it breaks every week!)
+- 🐧 Arch Linux power user (Dosen't Break Anymore!)
 - 🔐 TryHackMe streak going strong - addicted to learning
 - 🐍 Python tolerance slightly increased (still prefer Rust though)
 - ☕ Coffee consumption directly correlates with CTF difficulty
@@ -218,9 +188,8 @@ fn current_skill_level() -> &'static str {
 
 ### 🚀 "Progress, not perfection" 
 
-*3 months into the cybersecurity journey and loving every challenge! 🔐*
 
-**Last Updated**: 2025-06-07 15:08:01 UTC
+**Last Updated**: 2025-06-24 15:14:01 UTC
 
 </div>
 
