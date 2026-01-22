@@ -35,7 +35,3 @@
 - Discord: **@.alphao**
 
 ---
-
-<p align="center">
-  <sub>Minimal. Practical. Learning in public.</sub>
-</p>
