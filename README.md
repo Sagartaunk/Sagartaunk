@@ -1,47 +1,41 @@
-# Sagar Taunk
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Sagar Taunk</h1>
+<h3 align="center">I like messing around with technology</h3>
 
-Student | Systems & Security Enthusiast
-
----
-
-## About
-I am an 18-year-old student with a strong interest in systems programming, Linux environments, and cybersecurity. I focus on building a solid technical foundation through hands-on experimentation and continuous learning, particularly in low-level programming and networking.
-
----
-
-## Technical Interests
-- Systems programming
-- Linux administration and customization
-- Networking fundamentals
-- Cybersecurity with a focus on penetration testing
-- Hardware–software integration (3D printing and firmware)
-
----
-
-## Skills
-
-### Programming Languages
-- **Rust** — beginner level, focusing on safe systems programming
-- **Python** — basic scripting and automation
-- **C++** — foundational knowledge of core concepts
-
-### Operating Systems
-- Linux (Arch-based distributions)
-- System configuration, troubleshooting, and customization
-
-### Networking & Security
-- Basic understanding of TCP/IP and common networking concepts
-- Learning security fundamentals and offensive security methodologies
-- Long-term goal: penetration testing and security research
-
----
-
-## Current Goals
-- Strengthen fundamentals in systems and low-level programming
-- Gain deeper understanding of networking and Linux internals
-- Progress toward practical cybersecurity and penetration testing skills
-- Build and maintain well-documented technical projects
+<p align="center">
+  Linux · Rust · 3D Printing · Low-level systems · Networking
+</p>
 
 ---
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagartaunk&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagartaunk&layout=compact&hide_border=true&theme=transparent" height="160"/>
+</p>
+
+---
+
+## 🛠 Tech I Like Using
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Klipper-logo.svg" width="50" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: **@sagartaunk**
+- Discord: **@.alphao**
+
+---
+
+<p align="center">
+  <sub>Minimal. Practical. Learning in public.</sub>
+</p>
