@@ -21,10 +21,10 @@
 ## 🛠 Tech I Like Using
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Klipper-logo.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/Klipper3d/klipper/master/docs/img/klipper-logo-small.png" width="50" />
 </p>
 
 ---
