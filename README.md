@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Sagar Taunk</h1>
+<h1 align="center">Hi, I'm Sagar Taunk</h1>
 <h3 align="center">I like messing around with technology</h3>
 
 <p align="center">
