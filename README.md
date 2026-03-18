@@ -8,16 +8,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-mef578of9-sagartaunks-projects.vercel.app/api?username=sagartaunk&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats-mef578of9-sagartaunks-projects.vercel.app/api/top-langs/?username=sagartaunk&layout=compact&hide_border=true&theme=transparent" height="160"/>
-</p>
-
----
-
 ## 🛠 Tech I Like Using
 
 <p align="center">
