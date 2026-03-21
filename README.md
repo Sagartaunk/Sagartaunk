@@ -21,7 +21,6 @@
 
 ## 📫 Contact
 
-- GitHub: **@sagartaunk**
 - Discord: **@.alphao**
-
+- E-Mail: **sagartaunk@proton.me**
 ---
