@@ -21,6 +21,6 @@
 
 ## 📫 Contact
 
-- Discord: **@.alphao**
+- LinkedIn: **https://www.linkedin.com/in/sagartaunk/**
 - E-Mail: **sagartaunk@proton.me**
 ---
